@@ -1,0 +1,138 @@
+body{
+  background-color: rgb(225, 180, 215) ;
+  border-style: solid ;
+  border-color: rgba(171, 0, 109, 0.422);
+  border-width: 20px;
+}
+h3{
+  color: rgb(233, 230, 230);
+  text-decoration:solid;
+  font-size: 70px;
+  background:linear-gradient( rgb(209, 126, 160),rgb(194, 147, 171));
+}
+.title{
+  text-align: center;
+  font-size: 80px;
+  font-family: fantasy;
+  background: solid;
+}
+.one{
+  text-align: center;
+  font-size: x-large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.two{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.three{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.four{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.five{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.six{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.seven{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.eight{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  padding: 20px 20px;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.p1{
+ border-radius: 10%;
+ transition: 3s;
+ }
+.p1:hover{
+ transform:scale(1); 
+ box-shadow: 8px 8px 6px;
+ }
+.p2{
+ border-radius: 10%;
+ transition: 3s;
+}
+.p2:hover{
+ transform:scale(1.1);  
+ box-shadow: 8px 8px 6px;
+}
+.p3{
+ border-radius: 10%;
+ transition: 3s;
+}
+.p3:hover{
+ transform:scale(1.1);
+ box-shadow: 8px 8px 6px;
+}
+.p4
+{
+ border-radius: 10%;
+ transition: 3s;
+}
+.p4:hover{
+ transform:scale(1.1);
+ box-shadow: 8px 8px 6px;
+}
+.p5{
+ border-radius: 10%;
+ transition: 3s;
+}
+.p5:hover{
+ transform:scale(1.1);
+ box-shadow: 8px 8px 6px;
+}
+.p6{
+ border-radius: 10%;
+ transition: 3s;
+}
+.p6:hover{
+ transform:scale(1.1);
+ box-shadow: 8px 8px 6px;
+}
+.p7{
+ border-radius: 10%;
+ transition: 3s;
+}
+.p7:hover{
+ transform:scale(1.1);
+ box-shadow: 8px 8px 6px;
+}
+.p8{
+ border-radius: 10%;
+ transition: 3s;
+}
+.p8:hover{
+ transform:scale(1.1);
+ box-shadow: 8px 8px 6px;
+}
